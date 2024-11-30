@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "881932875311",
+    "firebase_url": "https://iot-agriculture-e4409-default-rtdb.firebaseio.com",
+    "project_id": "iot-agriculture-e4409",
+    "storage_bucket": "iot-agriculture-e4409.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881932875311:android:4a21b967ccb2efae5c38da",
+        "android_client_info": {
+          "package_name": "com.example.iot_agriculture_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOVD14XTaIBNdyNydFRCTmnV4-mpuzXMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
